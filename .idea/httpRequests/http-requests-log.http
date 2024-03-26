@@ -1,0 +1,21 @@
+POST http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: application/json
+Content-Length: 0
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-26T114428.404.json
+
+###
+
+GET http://localhost:8888/CUSTOMER-SERVICE/actuator/refresh
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.10)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2024-03-26T114400.404.json
+
+###
+
